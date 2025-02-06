@@ -4,7 +4,7 @@ title: 'FinerSense: a Fine-grained Respiration Sensing System Based on Precise S
 authors:
 - Wenchao Song
 - Zhu Wang
-- Yifan Guo
+- admin
 - Zhuo Sun
 - Zhihui Ren
 - Chao Chen

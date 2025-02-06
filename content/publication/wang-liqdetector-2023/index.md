@@ -3,7 +3,7 @@ title: 'LiqDetector: Enabling Container-Independent Liquid Detection with mmWave
   Based on a Dual-Reflection Model'
 authors:
 - Zhu Wang
-- Yifan Guo
+- admin
 - Zhihui Ren
 - Wenchao Song
 - Zhuo Sun

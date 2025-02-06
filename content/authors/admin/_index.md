@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 郭依凡
+title: Yifan Guo
 
 # Name pronunciation (optional)
-name_pronunciation: Yifan Guo
+name_pronunciation: 郭依凡
 
 # Full name (for SEO)
 first_name: Yifan
@@ -155,6 +155,6 @@ education:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About me
 
 I am currently a Ph.D. candidate at the School of Computer Science, Northwestern Polytechnical University, under the supervision of Prof. [Zhu Wang](https://jszy.nwpu.edu.cn/wangzhu.html) and Prof. [Zhuo Sun](https://teacher.nwpu.edu.cn/2021010071.html). I serve as a reviewer for multiple prestigious international conferences and journals, including UbiComp/ISWC, IEEE IoT Journal, and AIoTSys.

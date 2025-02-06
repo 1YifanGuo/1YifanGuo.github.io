@@ -5,7 +5,7 @@ authors:
 - Zhihui Ren
 - Zhu Wang
 - Zhuo Sun
-- Yifan Guo
+- admin
 - Wenchao Song
 - Hualei Zhang
 - Chao Chen
