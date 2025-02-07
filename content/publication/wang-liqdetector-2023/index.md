@@ -39,4 +39,7 @@ abstract: With the advancement of wireless sensing technologies, RF-based contac
 links:
 - name: URL
   url: https://dl.acm.org/doi/10.1145/3631443
+tags:
+- mmWave Radar Sensing
+- Liquid Detection
 ---
