@@ -20,4 +20,7 @@ publication: '*IEEE Transactions on Mobile Computing*'
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/10787125/
+tags:
+- Wi-Fi Sensing
+- Respiration Sensing
 ---
