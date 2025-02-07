@@ -16,7 +16,6 @@ publication_types:
 - article-journal
 publication: '*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
   Technologies*'
-doi: 10.1145/3631443
 abstract: With the advancement of wireless sensing technologies, RF-based contact-less
   liquid detection attracts more and more attention. Compared with other RF devices,
   the mmWave radar has the advantages of large bandwidth and low cost. While existing
