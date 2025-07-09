@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yifan Guo(郭依凡)"
+title                    : "Yifan Guo"
 description              : "Focus on mmWave sensing and foundation model for wireless sensing. "
 repository               : "1YifanGuo/1YifanGuo.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifan Guo"
+  name             : "Yifan Guo(郭依凡)"
   avatar           : "images/GYF.png"
   bio              : "Northwestern Polytechnical University"
   location         : "Xi'an, China"
