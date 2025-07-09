@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifan Guo(郭依凡)"
+  name             : "Yifan Guo (郭依凡)"
   avatar           : "images/GYF.png"
-  bio              : "Northwestern Polytechnical University"
+  bio              : "NWPU"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
