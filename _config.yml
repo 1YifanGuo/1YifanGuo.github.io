@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Yifan Guo"
-description              : "Focus on mmWave sensing and foundation model for wireless sensing. "
+description              : 
 repository               : "1YifanGuo/1YifanGuo.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
