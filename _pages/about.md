@@ -23,8 +23,8 @@ I serve as a reviewer for top-tier international conferences and journals, inclu
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 2 papers accepted to ACM UbiComp/IMWUT 2025!
-- *2022.07*: &nbsp;🎉🎉 1 paper accepted to IEEE Transactions on Mobile Computing!
-- *2022.02*: &nbsp;🔥🔥 We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data).
+- *2025.07*: &nbsp;🎉🎉 1 paper accepted to IEEE Transactions on Mobile Computing!
+- *2025.02*: &nbsp;🔥🔥 We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data).
 
 # 📝 Publications 
 
