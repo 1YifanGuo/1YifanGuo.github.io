@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the School of Computer Science, Northwestern Polytechnical University, supervised by [Prof. Zhu Wang(王柱)](https://jszy.nwpu.edu.cn/wangzhu.html). My research interests include mmWave sensing and wireless sensing foundation model.
-
-I serve as a reviewer for top-tier international conferences and journals, including ACM UbiComp/ISWC 2024 and IEEE Internet of Things Journal. Additionally, I am a TPC member for MobiCom 2025 Artifact Evaluation.
+I am currently a Ph.D. student at the School of Computer Science, Northwestern Polytechnical University, supervised by [Prof. Zhu Wang(王柱)](https://jszy.nwpu.edu.cn/wangzhu.html). My research interests include mmWave sensing and wireless sensing foundation model. I currently serve as a reviewer for top-tier international conferences and journals, including ACM UbiComp/ISWC 2024 and IEEE Internet of Things Journal. Additionally, I am a TPC member for MobiCom 2025 Artifact Evaluation.
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 2 papers accepted to ACM UbiComp/IMWUT 2025!
@@ -47,6 +45,8 @@ I serve as a reviewer for top-tier international conferences and journals, inclu
 - <span class="badge">IEEE TMC</span> FinerSense: a Fine-grained Respiration Sensing System Based on Precise Separation of Wi-Fi Signals. Wenchao Song, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhuo Sun, Zhihui Ren, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zhou, Daqing Zhang. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10787125">📄</a>
 
 - <span class="badge">IEEE TMC</span> Characterizing the through-wall sensing mechanism of wi-fi signals with a refraction-aware fresnel zone model. Zhihui Ren, Zhu Wang, Zhuo Sun, <span class="highlight-author">Yifan Guo</span>, Wenchao Song, Hualei Zhang, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zho, Daqing Zhang. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10592811">📄</a>
+
+*☀️☀️ Special thanks to Prof. Zhuo Sun(孙卓), Prof. Bin Guo(郭斌), and Prof. Zhiwen Yu(於志文) for their guidance. I also appreciate the collaboration and support from my co-authors: Qian Qin(秦谦), Yangqian Lei(雷杨倩), Dongliang Ma(马栋梁), Qiwen Gan(甘琪文), and Wenchao Song(宋文超).*
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
