@@ -28,19 +28,19 @@ I serve as a reviewer for top-tier international conferences and journals, inclu
 
 # 📝 Publications 
 
-### 🧠 wireless sensing foundation model 
+## 🧠 wireless sensing foundation model 
 
 - <span class="badge">UbiComp/IMWUT 2025</span> mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model. <strong>Yifan Guo</strong>, Zhu Wang, Qian Qin, Yangqian Lei, Qiwen Gan, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. <a href="https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data">Dataset</a>
 
 - <span class="badge">AIoTSys 2025</span> Wi-CLIP: Toward Zero-Shot Air Gesture Recognition Based on RF-Text Foundation Model. Haoyu Zhang, <strong>Yifan Guo</strong>, Zhu Wang, Zhuo Sun, Bin Guo, Zhiwen Yu. <a href="https://github.com/yanbanliu/Wi-CLIP">Code</a>
 
-### 📡 mmWave sensing 
+## 📡 mmWave sensing 
 
 - <span class="badge">IEEE TMC</span> MultiScanner: Enabling Simultaneous Detection of Multiple Liquids with mmWave Radar Based on a Composite Reflection Model. <strong>Yifan Guo</strong>, Zhu Wang, Zhihui Ren, Wei Xu, Yangqian Lei, Qian Qin, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu, Daqing Zhang. 
 
 - <span class="badge">UbiComp/IMWUT 2024</span> Liqdetector: enabling container-independent liquid detection with mmwave signals based on a dual-reflection model. Zhu Wang, <strong>Yifan Guo</strong>, Zhihui Ren, Wenchao Song, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. <a href="https://dl.acm.org/doi/pdf/10.1145/3631443">PDF</a>
 
-### 🛜 Wi-Fi sensing
+## 🛜 Wi-Fi sensing
 
 - <span class="badge">UbiComp/IMWUT 2025</span> AdaptTrack: A Robust Tracking System for Complex Environments Based on Wi-Fi Device Selection Strategy. Dongliang Ma, Zhuo Sun, Zhiqiang Wei, <strong>Yifan Guo</strong>, Yangqian Lei, Zhu Wang, Zhiwen Yu, Bin Guo.
 
