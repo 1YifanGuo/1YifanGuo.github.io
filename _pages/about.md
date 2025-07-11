@@ -54,7 +54,7 @@ I serve as a reviewer for top-tier international conferences and journals, inclu
 
 # 📖 Educations
 - *2024.04 - (now)*, Ph.D. Student, Computer Science and Technology,<br> School of Computer Science, Northwestern Polytechnical University, Xi'an, China. 
-- *2021.06 - 2024.04*, M.Eng., Computer Technology,<br> School of Computer Science, Northwestern Polytechnical University, Xi'an, China.
+- *2021.09 - 2024.04*, M.Eng., Computer Technology,<br> School of Computer Science, Northwestern Polytechnical University, Xi'an, China.
 - *2016.09 - 2020.06*, B.Eng., Internet of Things Engineering,<br> School of International Education, Hebei University of Technology, Tianjin, China.
 
 <!-- # 💬 Invited Talks
