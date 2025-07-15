@@ -28,9 +28,9 @@ I am currently a Ph.D. student at the School of Computer Science, Northwestern P
 
 ## 🧠 Wireless Sensing Foundation Model 
 
-- <span class="badge">UbiComp/IMWUT 2025</span> mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model. <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Qian Qin, Yangqian Lei, Qiwen Gan, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. <a href="https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data">💾</a>
+- <span class="badge">UbiComp/IMWUT 2025</span> <em>mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model. </em> <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Qian Qin, Yangqian Lei, Qiwen Gan, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. <a href="https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data">💾</a>
 
-- <span class="badge">AIoTSys 2025</span> Wi-CLIP: Toward Zero-Shot Air Gesture Recognition Based on RF-Text Foundation Model. Haoyu Zhang, <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Zhuo Sun, Bin Guo, Zhiwen Yu. <a href="https://github.com/yanbanliu/Wi-CLIP">💻</a>
+- <span class="badge">AIoTSys 2025</span> <em>Wi-CLIP: Toward Zero-Shot Air Gesture Recognition Based on RF-Text Foundation Model. Haoyu Zhang, <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Zhuo Sun, Bin Guo, Zhiwen Yu.</em> <a href="https://github.com/yanbanliu/Wi-CLIP">💻</a>
 
 ## 📡 mmWave Sensing 
 
