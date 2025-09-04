@@ -28,11 +28,11 @@ I am currently a Ph.D. student at the School of Computer Science, Northwestern P
 
 ## 🧠 Wireless Sensing Foundation Model 
 
-- <span class="badge">UbiComp/IMWUT 2025</span> <em>mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model. </em> <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Qian Qin, Yangqian Lei, Qiwen Gan, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. <a href="https://github.com/1YifanGuo/mmPencil">💻</a> <a href="https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data">💾</a>
-
 - <span class="badge">AIoTSys 2025</span> <em>Wi-CLIP: Toward Zero-Shot Air Gesture Recognition Based on RF-Text Foundation Model.</em> Haoyu Zhang, <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Zhuo Sun, Bin Guo, Zhiwen Yu. <a href="https://github.com/yanbanliu/Wi-CLIP">💻</a>
 
 ## 📡 mmWave Sensing 
+
+- <span class="badge">UbiComp/IMWUT 2025</span> <em>mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model. </em> <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Qian Qin, Yangqian Lei, Qiwen Gan, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. <a href="https://github.com/1YifanGuo/mmPencil">💻</a> <a href="https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data">💾</a> <a href="https://dl.acm.org/doi/10.1145/3749504">📄</a>
 
 - <span class="badge">IEEE TMC</span> <em>MultiScanner: Enabling Simultaneous Detection of Multiple Liquids with mmWave Radar Based on a Composite Reflection Model.</em> <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Zhihui Ren, Wei Xu, Yangqian Lei, Qian Qin, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu, Daqing Zhang. <a href="https://ieeexplore.ieee.org/abstract/document/11072920">📄</a> 
 
@@ -40,7 +40,7 @@ I am currently a Ph.D. student at the School of Computer Science, Northwestern P
 
 ## 🛜 Wi-Fi Sensing
 
-- <span class="badge">UbiComp/IMWUT 2025</span> <em>AdaptTrack: A Robust Tracking System for Complex Environments Based on Wi-Fi Device Selection Strategy.</em> Dongliang Ma, Zhuo Sun, Zhiqiang Wei, <span class="highlight-author">Yifan Guo</span>, Yangqian Lei, Zhu Wang, Zhiwen Yu, Bin Guo.
+- <span class="badge">UbiComp/IMWUT 2025</span> <em>AdaptTrack: A Robust Tracking System for Complex Environments Based on Wi-Fi Device Selection Strategy.</em> Dongliang Ma, Zhuo Sun, Zhiqiang Wei, <span class="highlight-author">Yifan Guo</span>, Yangqian Lei, Zhu Wang, Zhiwen Yu, Bin Guo. <a href="https://dl.acm.org/doi/10.1145/3749506">📄</a>
 
 - <span class="badge">IEEE TMC</span> <em>FinerSense: a Fine-grained Respiration Sensing System Based on Precise Separation of Wi-Fi Signals.</em> Wenchao Song, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhuo Sun, Zhihui Ren, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zhou, Daqing Zhang. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10787125">📄</a>
 
