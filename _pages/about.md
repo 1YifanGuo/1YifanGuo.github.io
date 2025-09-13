@@ -28,7 +28,7 @@ I am currently a Ph.D. student at the School of Computer Science, Northwestern P
 
 ## 🧠 Wireless Sensing Foundation Model 
 
-- <span class="badge">AIoTSys 2025</span> <em>Wi-CLIP: Toward Zero-Shot Air Gesture Recognition Based on RF-Text Foundation Model.</em> Haoyu Zhang, <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Zhuo Sun, Bin Guo, Zhiwen Yu. <a href="https://github.com/yanbanliu/Wi-CLIP">💻</a>
+- <span class="badge">AIoTSys 2025</span> <em>Wi-CLIP: Toward Zero-Shot Air Gesture Recognition Based on RF-Text Foundation Model.</em> Haoyu Zhang, <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Zhuo Sun, Bin Guo, Zhiwen Yu. <a href="https://github.com/yanbanliu/Wi-CLIP">💻</a> (Supervised third-year undergraduate student project)
 
 ## 📡 mmWave Sensing 
 
