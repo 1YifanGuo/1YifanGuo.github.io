@@ -42,9 +42,9 @@ I am currently a Ph.D. student at the School of Computer Science, Northwestern P
 
 - <span class="badge">IEEE TMC</span> <em>FinerSense: a Fine-grained Respiration Sensing System Based on Precise Separation of Wi-Fi Signals.</em> Wenchao Song, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhuo Sun, Zhihui Ren, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zhou, Daqing Zhang. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10787125">📄</a>
 
-- <span class="badge">IEEE TMC</span> <em>Characterizing the through-wall sensing mechanism of wi-fi signals with a refraction-aware fresnel zone model.</em> Zhihui Ren, Zhu Wang, Zhuo Sun, <span class="highlight-author">Yifan Guo</span>, Wenchao Song, Hualei Zhang, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zho, Daqing Zhang. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10592811">📄</a>
+- <span class="badge">IEEE TMC</span> <em>Characterizing the through-wall sensing mechanism of wi-fi signals with a refraction-aware fresnel zone model.</em> Zhihui Ren, Zhu Wang, Zhuo Sun, <span class="highlight-author">Yifan Guo</span>, Wenchao Song, Hualei Zhang, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zhou, Daqing Zhang. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10592811">📄</a>
 
-*☀️☀️☀️ Special thanks to Prof. Zhuo Sun(孙卓), Prof. Bin Guo(郭斌), and Prof. Zhiwen Yu(於志文) for their guidance. I also appreciate the collaboration and support from my co-authors: Qian Qin(秦谦), Yangqian Lei(雷杨倩), Dongliang Ma(马栋梁), Qiwen Gan(甘琪文), and Wenchao Song(宋文超).*
+*☀️☀️☀️ Special thanks to [Prof. Zhuo Sun(孙卓)](https://teacher.nwpu.edu.cn/2021010071.html), Prof. Bin Guo(郭斌), and Prof. Zhiwen Yu(於志文) for their guidance. I also appreciate the collaboration and support from my co-authors: Wenchao Song(宋文超), Qian Qin(秦谦), Yangqian Lei(雷杨倩), Dongliang Ma(马栋梁), and Qiwen Gan(甘琪文).*
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -55,9 +55,9 @@ I am currently a Ph.D. student at the School of Computer Science, Northwestern P
 - *2021.09 - 2024.04*, M.Eng., Computer Technology,<br> School of Computer Science, Northwestern Polytechnical University, Xi'an, China.
 - *2016.09 - 2020.06*, B.Eng., Internet of Things Engineering,<br> School of International Education, Hebei University of Technology, Tianjin, China.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+ # 💬 Invited Talks
+- *2025.10.16*, Paper Session H1: Interaction Techniques II, UbiComp/ISWC 2025, Espoo, Finland.
+- *2024.10.08*, Paper Session 4B: mmWave, UbiComp/ISWC 2024, Melbourne, Australia.
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
