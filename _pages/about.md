@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the School of Computer Science, Northwestern Polytechnical University, supervised by [Prof. Zhu Wang(王柱)](https://jszy.nwpu.edu.cn/wangzhu.html). My research interests include mmWave sensing and wireless sensing foundation model. I currently serve as a reviewer for top-tier international conferences and journals, including ACM UbiComp/ISWC 2024 and IEEE Internet of Things Journal.
+I am currently a Ph.D. student at the School of Computer Science, Northwestern Polytechnical University, supervised by [Prof. Zhu Wang(王柱)](https://jszy.nwpu.edu.cn/wangzhu.html). My research interests include mmWave sensing and wireless sensing foundation model.
 
 # 🔥 News
 - *2025.07*: 🎉🎉 2 papers accepted to ACM UbiComp/IMWUT 2025!
