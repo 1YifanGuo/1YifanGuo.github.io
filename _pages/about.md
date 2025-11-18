@@ -20,12 +20,13 @@ redirect_from:
 I am currently a Ph.D. student at the School of Computer Science, Northwestern Polytechnical University, supervised by [Prof. Zhu Wang(王柱)](https://jszy.nwpu.edu.cn/wangzhu.html). My research interests include mmWave sensing and wireless sensing foundation model.
 
 # 🔥 News
+- *2025.11*: Invited to serve as a Reviewer for ACM IMWUT.
 - *2025.07*: 🎉🎉 2 papers accepted to ACM UbiComp/IMWUT 2025!
 - *2025.07*: 🎉🎉 1 paper accepted to IEEE Transactions on Mobile Computing!
 - *2025.04*: Join the Program Committee for MobiCom 2025 Artifact Evaluation. 
 - *2025.02*: 🔥🔥 We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data).
 - *2024.10*: Invited to serve as a Reviewer for IEEE Internet of Things Journal.
-- *2024.06*: Invited to serve as a Reviewer for UbiComp/ISWC 2024, Posters and Demos track.
+- *2024.06*: Invited to serve as a Reviewer for ACM UbiComp/ISWC 2024, Posters and Demos track.
 - *2023.10*: 🎉🎉 1 paper accepted to ACM UbiComp/IMWUT 2024!
 
 # 📝 Publications 
