@@ -35,22 +35,37 @@ I am currently a Ph.D. student at the School of Computer Science, Northwestern P
 
 ## 📡 mmWave Sensing 
 
-- <span class="badge">UbiComp/IMWUT 2025</span><br>
-<em>mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model.</em><br>
-<span class="highlight-author">Yifan Guo</span>, Zhu Wang, Qian Qin, Yangqian Lei, Qiwen Gan, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu.<br>
-<a href="https://github.com/1YifanGuo/mmPencil">💻</a> <a href="https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data">💾</a> <a href="https://dl.acm.org/doi/10.1145/3749504">📄</a>
+- <span class="badge">UbiComp/IMWUT 2025</span> <br>
+<em>mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model.</em> <br>
+<span class="highlight-author">Yifan Guo</span>, Zhu Wang, Qian Qin, Yangqian Lei, Qiwen Gan, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. <br>
+<a href="https://github.com/1YifanGuo/mmPencil">💻</a> <a href="https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data">💾</a> <a href="https://dl.acm.org/doi/10.1145/3749504">📄</a> <br>
 
-- <span class="badge">IEEE TMC</span> <em>MultiScanner: Enabling Simultaneous Detection of Multiple Liquids with mmWave Radar Based on a Composite Reflection Model.</em> <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Zhihui Ren, Wei Xu, Yangqian Lei, Qian Qin, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu, Daqing Zhang. <a href="https://ieeexplore.ieee.org/abstract/document/11072920">📄</a> 
+- <span class="badge">IEEE TMC</span> <br>
+<em>MultiScanner: Enabling Simultaneous Detection of Multiple Liquids with mmWave Radar Based on a Composite Reflection Model.</em> <br>
+<span class="highlight-author">Yifan Guo</span>, Zhu Wang, Zhihui Ren, Wei Xu, Yangqian Lei, Qian Qin, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu, Daqing Zhang. <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/11072920">📄</a> <br>
 
-- <span class="badge">UbiComp/IMWUT 2024</span> <em>Liqdetector: enabling container-independent liquid detection with mmwave signals based on a dual-reflection model.</em> Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhihui Ren, Wenchao Song, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. <a href="https://dl.acm.org/doi/pdf/10.1145/3631443">📄</a>
+- <span class="badge">UbiComp/IMWUT 2024</span> <br>
+<em>Liqdetector: enabling container-independent liquid detection with mmwave signals based on a dual-reflection model.</em> <br>
+Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhihui Ren, Wenchao Song, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. <br>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3631443">📄</a> <br>
 
 ## 🛜 Wi-Fi Sensing
 
-- <span class="badge">UbiComp/IMWUT 2025</span> <em>AdaptTrack: A Robust Tracking System for Complex Environments Based on Wi-Fi Device Selection Strategy.</em> Dongliang Ma, Zhuo Sun, Zhiqiang Wei, <span class="highlight-author">Yifan Guo</span>, Yangqian Lei, Zhu Wang, Zhiwen Yu, Bin Guo. <a href="https://dl.acm.org/doi/10.1145/3749506">📄</a>
+- <span class="badge">UbiComp/IMWUT 2025</span> <br>
+<em>AdaptTrack: A Robust Tracking System for Complex Environments Based on Wi-Fi Device Selection Strategy.</em> <br>
+Dongliang Ma, Zhuo Sun, Zhiqiang Wei, <span class="highlight-author">Yifan Guo</span>, Yangqian Lei, Zhu Wang, Zhiwen Yu, Bin Guo. <br>
+<a href="https://dl.acm.org/doi/10.1145/3749506">📄</a> <br>
 
-- <span class="badge">IEEE TMC</span> <em>FinerSense: a Fine-grained Respiration Sensing System Based on Precise Separation of Wi-Fi Signals.</em> Wenchao Song, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhuo Sun, Zhihui Ren, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zhou, Daqing Zhang. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10787125">📄</a>
+- <span class="badge">IEEE TMC</span> <br>
+<em>FinerSense: a Fine-grained Respiration Sensing System Based on Precise Separation of Wi-Fi Signals.</em> <br>
+Wenchao Song, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhuo Sun, Zhihui Ren, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zhou, Daqing Zhang. <br>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10787125">📄</a> <br>
 
-- <span class="badge">IEEE TMC</span> <em>Characterizing the through-wall sensing mechanism of wi-fi signals with a refraction-aware fresnel zone model.</em> Zhihui Ren, Zhu Wang, Zhuo Sun, <span class="highlight-author">Yifan Guo</span>, Wenchao Song, Hualei Zhang, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zhou, Daqing Zhang. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10592811">📄</a>
+- <span class="badge">IEEE TMC</span> <br>
+<em>Characterizing the through-wall sensing mechanism of wi-fi signals with a refraction-aware fresnel zone model.</em> <br>
+Zhihui Ren, Zhu Wang, Zhuo Sun, <span class="highlight-author">Yifan Guo</span>, Wenchao Song, Hualei Zhang, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zhou, Daqing Zhang. <br>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10592811">📄</a> <br>
 
 *☀️☀️☀️ Special thanks to [Prof. Zhuo Sun(孙卓)](https://teacher.nwpu.edu.cn/2021010071.html), Prof. Bin Guo(郭斌), and Prof. Zhiwen Yu(於志文) for their guidance. I also appreciate the collaboration and support from my co-authors: Wenchao Song(宋文超), Qian Qin(秦谦), Yangqian Lei(雷杨倩), Dongliang Ma(马栋梁), and Qiwen Gan(甘琪文).*
 
