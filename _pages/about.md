@@ -35,7 +35,7 @@ I am currently a Ph.D. student at the School of Computer Science, Northwestern P
 
 ## 📡 mmWave Sensing 
 
-- <span class="badge">UbiComp/IMWUT 2025</span> <br>
+- <span class="badge">UbiComp/IMWUT 2025</span> <span style="color: red; font-style: italic; font-weight: bold;">(CCF-A)</span> <br>
 <em>mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model.</em> <br>
 <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Qian Qin, Yangqian Lei, Qiwen Gan, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. <a href="https://github.com/1YifanGuo/mmPencil">💻</a> <a href="https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data">💾</a> <a href="https://dl.acm.org/doi/10.1145/3749504">📄</a>
 
@@ -74,7 +74,9 @@ Zhihui Ren, Zhu Wang, Zhuo Sun, <span class="highlight-author">Yifan Guo</span>,
 
 # 💬 Invited Talks
 - *2025.10.16*, Paper Session H1: Interaction Techniques II, UbiComp/ISWC 2025, Espoo, Finland.
+- *2025.08.24*, PCC Top-Tier Conference and Journal Exchange Papers, HMCC 2025, Dalian, China.
 - *2024.10.08*, Paper Session 4B: mmWave, UbiComp/ISWC 2024, Melbourne, Australia.
+- *2024.08.20*, PCC Top-Tier Conference and Journal Exchange Papers, HHME 2024, Dalian, China.
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
