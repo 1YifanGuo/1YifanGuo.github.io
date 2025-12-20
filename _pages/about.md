@@ -35,9 +35,9 @@ I am currently a Ph.D. student at the School of Computer Science, Northwestern P
 
 ## 📡 mmWave Sensing 
 
-- <span class="badge">UbiComp/IMWUT 2025</span> 
-<em>mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model. </em> 
-<span class="highlight-author">Yifan Guo</span>, Zhu Wang, Qian Qin, Yangqian Lei, Qiwen Gan, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. 
+- <span class="badge">UbiComp/IMWUT 2025</span><br>
+<em>mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model.</em><br>
+<span class="highlight-author">Yifan Guo</span>, Zhu Wang, Qian Qin, Yangqian Lei, Qiwen Gan, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu.<br>
 <a href="https://github.com/1YifanGuo/mmPencil">💻</a> <a href="https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data">💾</a> <a href="https://dl.acm.org/doi/10.1145/3749504">📄</a>
 
 - <span class="badge">IEEE TMC</span> <em>MultiScanner: Enabling Simultaneous Detection of Multiple Liquids with mmWave Radar Based on a Composite Reflection Model.</em> <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Zhihui Ren, Wei Xu, Yangqian Lei, Qian Qin, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu, Daqing Zhang. <a href="https://ieeexplore.ieee.org/abstract/document/11072920">📄</a> 
