@@ -82,7 +82,7 @@ Zhihui Ren, Zhu Wang, Zhuo Sun, <span class="highlight-author">Yifan Guo</span>,
 - *2025.10.16*, Paper Session H1: Interaction Techniques II, UbiComp/ISWC 2025, Espoo, Finland.
 - *2025.08.24*, PCC Top-Tier Conference and Journal Exchange Papers, HMCC 2025, Dalian, China.
 - *2024.10.08*, Paper Session 4B: mmWave, UbiComp/ISWC 2024, Melbourne, Australia.
-- *2024.08.20*, PCC Top-Tier Conference and Journal Exchange Papers, HHME 2024, Dalian, China.
+- *2024.08.20*, PCC Top-Tier Conference and Journal Exchange Papers, HHME 2024, Taiyuan, China.
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
