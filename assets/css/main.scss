@@ -111,3 +111,77 @@ display: inline-block;
   font-weight: bold;
   color: #00369f;
 }
+
+/* News 滚动框样式 */
+.news-scroll-box {
+    max-height: 200px; /* 控制显示高度 */
+    overflow-y: auto;  /* 超出部分滚动 */
+    padding: 10px 15px;
+    background-color: #f8f9fa; /* 浅灰背景 */
+    border: 1px solid #e9ecef;
+    border-radius: 8px; /* 圆角 */
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.05); /* 内部阴影增加深度 */
+}
+
+/* 隐藏滚动条但保留功能 (可选，适合极简风格) */
+.news-scroll-box::-webkit-scrollbar {
+    width: 6px;
+}
+.news-scroll-box::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 3px;
+}
+
+/* 论文列表卡片样式 */
+.pub-item {
+    background: #fff;
+    border-left: 5px solid #00369f; /* 使用你现有的主题蓝色 */
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05); /* 轻微阴影 */
+    transition: all 0.3s ease; /* 动画过渡 */
+}
+
+/* 鼠标悬停时的效果 */
+.pub-item:hover {
+    transform: translateX(5px); /* 向右轻微移动 */
+    box-shadow: 0 5px 15px rgba(0,54,159,0.15); /* 蓝色光晕阴影 */
+}
+
+/* 优化论文标题样式 */
+.pub-item em {
+    display: block; /* 标题独占一行 */
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #333;
+    margin: 5px 0;
+    font-style: normal; /* 取消斜体，更易读 */
+}
+
+/* 调整徽章对齐 */
+.pub-item .badge {
+    vertical-align: middle;
+    margin-bottom: 5px;
+}
+
+/* 头像呼吸灯效果 */
+.author__avatar img {
+    border: 3px solid #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    transition: transform 0.5s ease;
+}
+
+.author__avatar img:hover {
+    transform: scale(1.05) rotate(3deg); /* 悬停时轻微放大并旋转 */
+}
+
+/* 侧边栏链接图标颜色优化 */
+.author__urls.social-icons li a {
+    color: #555;
+    transition: color 0.2s;
+}
+.author__urls.social-icons li a:hover {
+    color: #00369f; /* 悬停变为主题色 */
+    text-decoration: none;
+}
