@@ -45,8 +45,8 @@ I am currently a Ph.D. student at the School of Computer Science, Northwestern P
 <span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-A)</span> <br>
 <em>mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model.</em> <br>
 <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Qian Qin, Yangqian Lei, Qiwen Gan, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu. <br>
-<a href="https://github.com/1YifanGuo/mmPencil" onclick="event.stopPropagation();" style="font-size: 1.5em;">💻CODE</a>  
-<a href="https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data" onclick="event.stopPropagation();" style="font-size: 1.5em;">💾DATASET</a>
+<a href="https://github.com/1YifanGuo/mmPencil" onclick="event.stopPropagation();" style="font-size: 1.3em;">💻</a>  
+<a href="https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data" onclick="event.stopPropagation();" style="font-size: 1.3em;">💾</a>
 </div>
 
 <div class="pub-item" onclick="window.open('https://ieeexplore.ieee.org/abstract/document/11072920', '_blank');" style="cursor: pointer;">
