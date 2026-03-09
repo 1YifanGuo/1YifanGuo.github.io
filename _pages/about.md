@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the School of Computer Science, Northwestern Polytechnical University, supervised by [Prof. Zhu Wang(王柱)](https://jszy.nwpu.edu.cn/wangzhu.html). My research interests include mmWave sensing and wireless sensing foundation model.
+I am currently a Ph.D. student at the School of Computer Science, Northwestern Polytechnical University, supervised by [Prof. Zhu Wang(王柱)](https://jszy.nwpu.edu.cn/wangzhu.html). My research interests include mmWave sensing and multimodal foundation model.
 
-*☀️☀️☀️ Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Zhuo Sun(孙卓) for their guidance. I also appreciate the collaboration and support from my co-authors: Wenchao Song(宋文超), Qian Qin(秦谦), Yangqian Lei(雷杨倩), Dongliang Ma(马栋梁), and Qiwen Gan(甘琪文).*
+Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Zhuo Sun(孙卓) for their guidance. I also appreciate the collaboration and support from my co-authors: Wenchao Song(宋文超), Qian Qin(秦谦), Yangqian Lei(雷杨倩), Dongliang Ma(马栋梁), and Qiwen Gan(甘琪文).
 
 # 🔥 News
 <div class="news-scroll-box" markdown="1">
