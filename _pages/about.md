@@ -19,6 +19,8 @@ redirect_from:
 
 I am currently a Ph.D. student at the School of Computer Science, Northwestern Polytechnical University, supervised by [Prof. Zhu Wang(王柱)](https://jszy.nwpu.edu.cn/wangzhu.html). My research interests include mmWave sensing and wireless sensing foundation model.
 
+*☀️☀️☀️ Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Zhuo Sun(孙卓) for their guidance. I also appreciate the collaboration and support from my co-authors: Wenchao Song(宋文超), Qian Qin(秦谦), Yangqian Lei(雷杨倩), Dongliang Ma(马栋梁), and Qiwen Gan(甘琪文).*
+
 # 🔥 News
 <div class="news-scroll-box" markdown="1">
 
@@ -85,9 +87,6 @@ Wenchao Song, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhuo Su
 <em>Characterizing the through-wall sensing mechanism of wi-fi signals with a refraction-aware fresnel zone model.</em> <br>
 Zhihui Ren, Zhu Wang, Zhuo Sun, <span class="highlight-author">Yifan Guo</span>, Wenchao Song, Hualei Zhang, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zhou, Daqing Zhang.
 </div>
-
-
-*☀️☀️☀️ Special thanks to [Prof. Zhuo Sun(孙卓)](https://teacher.nwpu.edu.cn/2021010071.html), Prof. Bin Guo(郭斌), and Prof. Zhiwen Yu(於志文) for their guidance. I also appreciate the collaboration and support from my co-authors: Wenchao Song(宋文超), Qian Qin(秦谦), Yangqian Lei(雷杨倩), Dongliang Ma(马栋梁), and Qiwen Gan(甘琪文).*
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
