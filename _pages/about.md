@@ -59,7 +59,7 @@ Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Z
 <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Zhihui Ren, Wei Xu, Yangqian Lei, Qian Qin, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu, Daqing Zhang.
 </div>
 
-<div class="pub-item" onclick="window.open('https://dl.acm.org/doi/pdf/10.1145/3631443', '_blank');" style="cursor: pointer;">
+<div class="pub-item" onclick="window.open('https://dl.acm.org/doi/10.1145/3631443', '_blank');" style="cursor: pointer;">
 <span class="badge">UbiComp/IMWUT 2024</span>
 <span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-A)</span> <br>
 <em>Liqdetector: enabling container-independent liquid detection with mmwave signals based on a dual-reflection model.</em> <br>
