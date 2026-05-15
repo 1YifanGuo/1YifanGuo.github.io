@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D. student at the School of Computer Science, Northwestern Polytechnical University, supervised by [Prof. Zhu Wang(王柱)](https://jszy.nwpu.edu.cn/wangzhu.html). My research interests include mmWave sensing, multimodal foundation model and Embodied AI.
 
-Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Zhuo Sun(孙卓) for their guidance. I also appreciate the collaboration and support from my co-authors: Wenchao Song(宋文超), Qian Qin(秦谦), Yangqian Lei(雷杨倩), Dongliang Ma(马栋梁), and Qiwen Gan(甘琪文).
+Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Zhuo Sun(孙卓) for their guidance. I also appreciate the collaboration and support from my co-authors: Wei Xu(徐伟), Wenchao Song(宋文超), Qian Qin(秦谦), Yangqian Lei(雷杨倩), Dongliang Ma(马栋梁), and Qiwen Gan(甘琪文).
 
 # 🔥 News
 <div class="news-scroll-box" markdown="1">
@@ -53,7 +53,7 @@ Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Z
 </div>
 
 <div class="pub-item" onclick="window.open('https://ieeexplore.ieee.org/abstract/document/11072920', '_blank');" style="cursor: pointer;">
-<span class="badge">IEEE TMC</span> 
+<span class="badge">IEEE TMC 2025</span> 
 <span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-A)</span> <br>
 <em>MultiScanner: Enabling Simultaneous Detection of Multiple Liquids with mmWave Radar Based on a Composite Reflection Model.</em> <br>
 <span class="highlight-author">Yifan Guo</span>, Zhu Wang, Zhihui Ren, Wei Xu, Yangqian Lei, Qian Qin, Zhuo Sun, Chao Chen, Bin Guo, Zhiwen Yu, Daqing Zhang.
@@ -76,17 +76,33 @@ Dongliang Ma, Zhuo Sun, Zhiqiang Wei, <span class="highlight-author">Yifan Guo</
 </div>
 
 <div class="pub-item" onclick="window.open('https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10787125', '_blank');" style="cursor: pointer;">
-<span class="badge">IEEE TMC</span>
+<span class="badge">IEEE TMC 2024</span>
 <span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-A)</span> <br>
 <em>FinerSense: a Fine-grained Respiration Sensing System Based on Precise Separation of Wi-Fi Signals.</em> <br>
 Wenchao Song, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhuo Sun, Zhihui Ren, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zhou, Daqing Zhang.
 </div>
 
 <div class="pub-item" onclick="window.open('https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10592811', '_blank');" style="cursor: pointer;">
-<span class="badge">IEEE TMC</span>
+<span class="badge">IEEE TMC 2024</span>
 <span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-A)</span> <br>
 <em>Characterizing the through-wall sensing mechanism of wi-fi signals with a refraction-aware fresnel zone model.</em> <br>
 Zhihui Ren, Zhu Wang, Zhuo Sun, <span class="highlight-author">Yifan Guo</span>, Wenchao Song, Hualei Zhang, Chao Chen, Bin Guo, Zhiwen Yu, Xingshe Zhou, Daqing Zhang.
+</div>
+
+## 🔊 Acoustic Sensing
+
+<div class="pub-item" onclick="window.open('https://ieeexplore.ieee.org/abstract/document/11417149', '_blank');" style="cursor: pointer;">
+<span class="badge">IEEE IoTJ 2026</span>
+<span style="color: green; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-C)</span> <br>
+<em>NodeLoc: A Robot-Assisted Universal Localization Framework for Ubiquitous Wireless Sensing Nodes.</em> <br>
+Wei Xu, Zhu Wang, Zhihui Ren, <span class="highlight-author">Yifan Guo</span>, Yandi Xu, Changlong Cheng, Bin Guo, Zhiwen Yu.
+</div>
+
+<div class="pub-item" onclick="window.open('https://link.springer.com/article/10.1007/s42486-025-00193-0', '_blank');" style="cursor: pointer;">
+<span class="badge">CCF TPCI 2025</span>
+<span style="color: blue; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-B)</span> <br>
+<em>Acoustic Sensing Mechanisms, Technologies, and Applications: A Survey.</em> <br>
+Wei Xu, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhihui Ren, Yandi Xu, Bin Guo, Zhiwen Yu, Xingshe Zhou.
 </div>
 
 <!-- # 🎖 Honors and Awards
