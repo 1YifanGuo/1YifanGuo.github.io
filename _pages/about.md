@@ -93,14 +93,14 @@ Zhihui Ren, Zhu Wang, Zhuo Sun, <span class="highlight-author">Yifan Guo</span>,
 
 <div class="pub-item" onclick="window.open('https://ieeexplore.ieee.org/abstract/document/11417149', '_blank');" style="cursor: pointer;">
 <span class="badge">IEEE IoTJ 2026</span>
-<span style="color: green; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-C)</span> <br>
+<span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-C)</span> <br>
 <em>NodeLoc: A Robot-Assisted Universal Localization Framework for Ubiquitous Wireless Sensing Nodes.</em> <br>
 Wei Xu, Zhu Wang, Zhihui Ren, <span class="highlight-author">Yifan Guo</span>, Yandi Xu, Changlong Cheng, Bin Guo, Zhiwen Yu.
 </div>
 
 <div class="pub-item" onclick="window.open('https://link.springer.com/article/10.1007/s42486-025-00193-0', '_blank');" style="cursor: pointer;">
 <span class="badge">CCF TPCI 2025</span>
-<span style="color: blue; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-B)</span> <br>
+<span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-B)</span> <br>
 <em>Acoustic Sensing Mechanisms, Technologies, and Applications: A Survey.</em> <br>
 Wei Xu, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhihui Ren, Yandi Xu, Bin Guo, Zhiwen Yu, Xingshe Zhou.
 </div>
