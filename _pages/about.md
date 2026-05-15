@@ -25,15 +25,15 @@ Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Z
 <div class="news-scroll-box" markdown="1">
 
 📌 *2025.02*: 🔥🔥 We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data). 👁️ 1500+ ⬇️ 120+
-- *2025.12*: Invited to serve as a reviewer for IEEE Transactions on Mobile Computing.
-- *2025.11*: Invited to serve as a reviewer for IEEE Transactions on Human-Machine Systems.
-- *2025.11*: Invited to serve as a reviewer for ACM UbiComp/IMWUT.
-- *2025.07*: 🎉🎉 2 papers accepted to ACM UbiComp/IMWUT 2025!
-- *2025.07*: 🎉🎉 1 paper accepted to IEEE Transactions on Mobile Computing!
-- *2025.04*: Join the Program Committee for MobiCom 2025 Artifact Evaluation. 
-- *2024.10*: Invited to serve as a reviewer for IEEE Internet of Things Journal.
-- *2024.06*: Invited to serve as a reviewer for ACM UbiComp/ISWC 2024, Posters and Demos track.
-- *2023.10*: 🎉🎉 1 paper accepted to ACM UbiComp/IMWUT 2024!
+⚖️ *2025.12*: Invited to serve as a reviewer for IEEE Transactions on Mobile Computing.
+⚖️ *2025.11*: Invited to serve as a reviewer for IEEE Transactions on Human-Machine Systems.
+⚖️ *2025.11*: Invited to serve as a reviewer for ACM UbiComp/IMWUT.
+📜 *2025.07*: 🎉🎉 2 papers accepted to ACM UbiComp/IMWUT 2025!
+📜 *2025.07*: 🎉🎉 1 paper accepted to IEEE Transactions on Mobile Computing!
+🤝 *2025.04*: Join the Program Committee for MobiCom 2025 Artifact Evaluation. 
+⚖️ *2024.10*: Invited to serve as a reviewer for IEEE Internet of Things Journal.
+⚖️ *2024.06*: Invited to serve as a reviewer for ACM UbiComp/ISWC 2024, Posters and Demos track.
+📜 *2023.10*: 🎉🎉 1 paper accepted to ACM UbiComp/IMWUT 2024!
 
 </div>
 
