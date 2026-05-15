@@ -17,20 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the School of Computer Science, Northwestern Polytechnical University, supervised by [Prof. Zhu Wang(王柱)](https://jszy.nwpu.edu.cn/wangzhu.html). My research interests include mmWave sensing and multimodal foundation model.
+I am currently a Ph.D. student at the School of Computer Science, Northwestern Polytechnical University, supervised by [Prof. Zhu Wang(王柱)](https://jszy.nwpu.edu.cn/wangzhu.html). My research interests include mmWave sensing, multimodal foundation model and Embodied AI.
 
 Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Zhuo Sun(孙卓) for their guidance. I also appreciate the collaboration and support from my co-authors: Wenchao Song(宋文超), Qian Qin(秦谦), Yangqian Lei(雷杨倩), Dongliang Ma(马栋梁), and Qiwen Gan(甘琪文).
 
 # 🔥 News
 <div class="news-scroll-box" markdown="1">
 
+- *2025.02*: 🔥🔥 **[Dataset Release]** We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data).
 - *2025.12*: Invited to serve as a reviewer for IEEE Transactions on Mobile Computing.
 - *2025.11*: Invited to serve as a reviewer for IEEE Transactions on Human-Machine Systems.
 - *2025.11*: Invited to serve as a reviewer for ACM UbiComp/IMWUT.
 - *2025.07*: 🎉🎉 2 papers accepted to ACM UbiComp/IMWUT 2025!
 - *2025.07*: 🎉🎉 1 paper accepted to IEEE Transactions on Mobile Computing!
 - *2025.04*: Join the Program Committee for MobiCom 2025 Artifact Evaluation. 
-- *2025.02*: 🔥🔥 We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data).
 - *2024.10*: Invited to serve as a reviewer for IEEE Internet of Things Journal.
 - *2024.06*: Invited to serve as a reviewer for ACM UbiComp/ISWC 2024, Posters and Demos track.
 - *2023.10*: 🎉🎉 1 paper accepted to ACM UbiComp/IMWUT 2024!
