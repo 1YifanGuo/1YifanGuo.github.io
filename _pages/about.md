@@ -24,7 +24,7 @@ Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Z
 # 🔥 News
 <div class="news-scroll-box" markdown="1">
 
-- 📌 *2025.02*: 🔥🔥 We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data). 👁️ 1500+ ⬇️ 120+
+📌 *2025.02*: 🔥🔥 We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data). 👁️ 1500+ ⬇️ 120+
 - *2025.12*: Invited to serve as a reviewer for IEEE Transactions on Mobile Computing.
 - *2025.11*: Invited to serve as a reviewer for IEEE Transactions on Human-Machine Systems.
 - *2025.11*: Invited to serve as a reviewer for ACM UbiComp/IMWUT.
