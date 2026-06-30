@@ -26,31 +26,31 @@ Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Z
 
 📌 *2025.02*: We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data). 👁️ 1600+  ⬇️ 130+
 
-📜 *2026.06*: 🎉🎉 1 paper accepted to CCF Transactions on Pervasive Computing and Interaction!
+📃 *2026.06*: 🎉🎉 1 paper accepted to CCF Transactions on Pervasive Computing and Interaction!
 
-⚖️ *2026.06*: Invited to serve as a reviewer for ACM Transactions on Sensor Networks.
+🌟 *2026.06*: Invited to serve as a reviewer for ACM Transactions on Sensor Networks.
 
 🚀 *2026.06*: Awarded the Innovation Foundation for Doctoral Dissertation of Northwestern Polytechnical University.
 
-⚖️ *2025.12*: Invited to serve as a reviewer for IEEE Transactions on Mobile Computing.
+🌟 *2025.12*: Invited to serve as a reviewer for IEEE Transactions on Mobile Computing.
 
-⚖️ *2025.11*: Invited to serve as a reviewer for IEEE Transactions on Human-Machine Systems.
+🌟 *2025.11*: Invited to serve as a reviewer for IEEE Transactions on Human-Machine Systems.
 
-⚖️ *2025.11*: Invited to serve as a reviewer for ACM UbiComp/IMWUT.
+🌟 *2025.11*: Invited to serve as a reviewer for ACM UbiComp/IMWUT.
 
-📜 *2025.07*: 🎉🎉 1 paper accepted to ACM UbiComp/IMWUT 2025!
+📃 *2025.07*: 🎉🎉 1 paper accepted to ACM UbiComp/IMWUT 2025!
 
-📜 *2025.07*: 🎉🎉 1 paper accepted to IEEE Transactions on Mobile Computing!
+📃 *2025.07*: 🎉🎉 1 paper accepted to IEEE Transactions on Mobile Computing!
 
-🤝 *2025.04*: Join the Program Committee for MobiCom 2025 Artifact Evaluation. 
+🥂 *2025.04*: Join the Program Committee for MobiCom 2025 Artifact Evaluation. 
 
-⚖️ *2024.10*: Invited to serve as a reviewer for IEEE Internet of Things Journal.
+🌟 *2024.10*: Invited to serve as a reviewer for IEEE Internet of Things Journal.
 
-🤝 *2024.08*: Join the Program Committee for AIoTSys 2024.
+🥂 *2024.08*: Join the Program Committee for AIoTSys 2024.
 
-⚖️ *2024.06*: Invited to serve as a reviewer for ACM UbiComp/ISWC 2024, Posters and Demos track.
+🌟 *2024.06*: Invited to serve as a reviewer for ACM UbiComp/ISWC 2024, Posters and Demos track.
 
-📜 *2023.10*: 🎉🎉 1 paper accepted to ACM UbiComp/IMWUT 2024!
+📃 *2023.10*: 🎉🎉 1 paper accepted to ACM UbiComp/IMWUT 2024!
 
 </div>
 
