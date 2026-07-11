@@ -24,7 +24,7 @@ Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Z
 # 🔥 News
 <div class="news-scroll-box" markdown="1">
 
-📌 *2025.02*: We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data). 👁️ 1600+  ⬇️ 130+
+📌 *2025.02*: We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data). 👁️ 1700+  ⬇️ 130+
 
 📃 *2026.06*: 🎉🎉 1 paper accepted to CCF Transactions on Pervasive Computing and Interaction!
 
