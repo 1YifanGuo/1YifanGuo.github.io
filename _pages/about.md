@@ -57,6 +57,14 @@ Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Z
 
 # 📝 Publications 
 
+## 🤖 Embodied Agent
+
+<div class="pub-item" onclick="window.open('http://arxiv.org/abs/2608.03099', '_blank');" style="cursor: pointer;">
+<span class="badge">arXiv</span> 
+<span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">preprint</span> <br>
+<em>What Language Does and What the Evidence Supports: A Functional Role Taxonomy and Evidence Audit of Language Grounding in Embodied Agents.</em> <br>
+<span class="highlight-author">Yifan Guo</span>, Chenghao Li, Zhu Wang, Wei Xu, Yu Li, Yulong Zhu, Zhuo Sun, Bin Guo, Zhiwen Yu. <br>
+</div>
 
 ## 📡 mmWave Sensing 
 
