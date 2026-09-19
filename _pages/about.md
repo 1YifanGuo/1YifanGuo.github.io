@@ -24,7 +24,7 @@ Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Z
 # 🔥 News
 <div class="news-scroll-box" markdown="1">
 
-📌 *2025.02*: We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data). 👁️ 1800+  ⬇️ 140+
+📌 *2025.02*: We have released a [mmWave radar dataset for 3D in-air handwritten words](https://www.kaggle.com/datasets/mmpencil/mmpencil-dataset/data). 👁️ 2000+  ⬇️ 150+
 
 📌 *2026.08*: We have released a [multimodal wireless sensing dataset for indoor tracking and identification](https://www.kaggle.com/datasets/weilaiyilai55/xgait-paper-dataset).
 
