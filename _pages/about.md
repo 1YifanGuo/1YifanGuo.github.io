@@ -28,7 +28,7 @@ Special thanks to Prof. Zhiwen Yu(於志文), Prof. Bin Guo(郭斌), and Prof. Z
 
 📌 *2026.08*: We have released a [multimodal wireless sensing dataset for indoor tracking and identification](https://www.kaggle.com/datasets/weilaiyilai55/xgait-paper-dataset).
 
-🌟 *2026.08*: Invited to serve as a reviewer for ACM CHI 2027.
+🌟 *2026.09*: Invited to serve as a reviewer for ACM CHI 2027.
 
 🌟 *2026.08*: Invited to serve as a reviewer for CCF Transactions on Pervasive Computing and Interaction.
 
