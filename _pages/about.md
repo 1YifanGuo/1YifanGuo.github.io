@@ -130,6 +130,15 @@ Zhihui Ren, Zhu Wang, Zhuo Sun, <span class="highlight-author">Yifan Guo</span>,
 
 ## 🔊 Acoustic Sensing
 
+<div class="pub-item" onclick="window.open('https://dl.acm.org/doi/abs/10.1145/3832029', '_blank');" style="cursor: pointer;">
+<span class="badge">UbiComp/IMWUT 2026</span> 
+<span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-A)</span> <br>
+<em>XGait: A Multi-Modality Wireless Sensing Dataset for Indoor Human Tracking and Identification.</em> <br>
+Wei Xu, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Changlong Cheng, Yin Zhang, Zhihui Ren, Bin Guo, Zhiwen Yu. <br>
+<a href="https://github.com/warrior-087/XGait" onclick="event.stopPropagation();" style="font-size: 1.3em;">💻</a>  
+<a href="https://www.kaggle.com/datasets/weilaiyilai55/xgait-paper-dataset" onclick="event.stopPropagation();" style="font-size: 1.3em;">💾</a>
+</div>
+
 <div class="pub-item" onclick="window.open('https://ieeexplore.ieee.org/abstract/document/11417149', '_blank');" style="cursor: pointer;">
 <span class="badge">IEEE IoTJ 2026</span>
 <span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-C)</span> <br>
@@ -142,15 +151,6 @@ Wei Xu, Zhu Wang, Zhihui Ren, <span class="highlight-author">Yifan Guo</span>, Y
 <span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-B)</span> <br>
 <em>Acoustic Sensing Mechanisms, Technologies, and Applications: A Survey.</em> <br>
 Wei Xu, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Zhihui Ren, Yandi Xu, Bin Guo, Zhiwen Yu, Xingshe Zhou.
-</div>
-
-<div class="pub-item" onclick="window.open('https://dl.acm.org/doi/abs/10.1145/3832029', '_blank');" style="cursor: pointer;">
-<span class="badge">UbiComp/IMWUT 2026</span> 
-<span style="color: red; font-style: italic; font-weight: bold; font-size: 0.90em; vertical-align: middle;">(CCF-A)</span> <br>
-<em>XGait: A Multi-Modality Wireless Sensing Dataset for Indoor Human Tracking and Identification.</em> <br>
-Wei Xu, Zhu Wang, <span class="highlight-author">Yifan Guo</span>, Changlong Cheng, Yin Zhang, Zhihui Ren, Bin Guo, Zhiwen Yu. <br>
-<a href="https://github.com/warrior-087/XGait" onclick="event.stopPropagation();" style="font-size: 1.3em;">💻</a>  
-<a href="https://www.kaggle.com/datasets/weilaiyilai55/xgait-paper-dataset" onclick="event.stopPropagation();" style="font-size: 1.3em;">💾</a>
 </div>
 
 <!-- # 🎖 Honors and Awards
